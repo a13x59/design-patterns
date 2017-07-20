@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverApplicationWithDele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorApplication", "DecoratorApplication\DecoratorApplication.csproj", "{D4D36FE5-605B-4085-9ABD-2A65F392D1A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryApplication", "FactoryApplication\FactoryApplication.csproj", "{ECBA927E-8275-4EC2-AEC6-329CFC78432A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodApplication", "FactoryMethodApplication\FactoryMethodApplication.csproj", "{145AF3E5-75FC-4480-B388-22C08BF87B23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,14 @@ Global
 		{D4D36FE5-605B-4085-9ABD-2A65F392D1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4D36FE5-605B-4085-9ABD-2A65F392D1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4D36FE5-605B-4085-9ABD-2A65F392D1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBA927E-8275-4EC2-AEC6-329CFC78432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBA927E-8275-4EC2-AEC6-329CFC78432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBA927E-8275-4EC2-AEC6-329CFC78432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBA927E-8275-4EC2-AEC6-329CFC78432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,5 +86,7 @@ Global
 		{C8C04F53-254F-4D60-8904-57FE1A6DDD73} = {AFD22C7C-9FD3-4358-9F24-79C9DDC2305A}
 		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E} = {AFD22C7C-9FD3-4358-9F24-79C9DDC2305A}
 		{D4D36FE5-605B-4085-9ABD-2A65F392D1A2} = {A15D7BFB-45B1-429C-901D-44FE1A70ED67}
+		{ECBA927E-8275-4EC2-AEC6-329CFC78432A} = {09D604CE-44A3-417C-A5E6-0249B03D1A1B}
+		{145AF3E5-75FC-4480-B388-22C08BF87B23} = {09D604CE-44A3-417C-A5E6-0249B03D1A1B}
 	EndGlobalSection
 EndGlobal
