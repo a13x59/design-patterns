@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{4D42
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyApplication", "StrategyApplication\StrategyApplication.csproj", "{138264CD-DCB9-4A8F-8022-6BDD1816D93E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverApplication", "ObserverApplication\ObserverApplication.csproj", "{C8C04F53-254F-4D60-8904-57FE1A6DDD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverApplicationWithDelegates", "ObserverApplicationWithDelegates\ObserverApplicationWithDelegates.csproj", "{C4866C4F-EA6B-477B-A990-E94FD37A4E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{138264CD-DCB9-4A8F-8022-6BDD1816D93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{138264CD-DCB9-4A8F-8022-6BDD1816D93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{138264CD-DCB9-4A8F-8022-6BDD1816D93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C04F53-254F-4D60-8904-57FE1A6DDD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C04F53-254F-4D60-8904-57FE1A6DDD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C04F53-254F-4D60-8904-57FE1A6DDD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C04F53-254F-4D60-8904-57FE1A6DDD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +65,7 @@ Global
 		{B6F27219-21C5-47BA-BE2A-9C80ECBC154C} = {D1531F15-D900-41A4-B955-58987BDB3530}
 		{4D426EA3-9F25-4C6D-AAC8-C50CB48EEECB} = {D1531F15-D900-41A4-B955-58987BDB3530}
 		{138264CD-DCB9-4A8F-8022-6BDD1816D93E} = {E891353F-60CB-49C6-A35E-9600AC09FABD}
+		{C8C04F53-254F-4D60-8904-57FE1A6DDD73} = {AFD22C7C-9FD3-4358-9F24-79C9DDC2305A}
+		{C4866C4F-EA6B-477B-A990-E94FD37A4E1E} = {AFD22C7C-9FD3-4358-9F24-79C9DDC2305A}
 	EndGlobalSection
 EndGlobal
