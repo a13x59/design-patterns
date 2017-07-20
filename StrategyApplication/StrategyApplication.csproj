@@ -42,6 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ducks\DuckBase.cs" />
+    <Compile Include="Ducks\ExoticDuck.cs" />
+    <Compile Include="Ducks\Fly\FlyWithWings.cs" />
+    <Compile Include="Ducks\Fly\IFlayable.cs" />
+    <Compile Include="Ducks\Fly\NoFly.cs" />
+    <Compile Include="Ducks\Quack\ExoticQuack.cs" />
+    <Compile Include="Ducks\Quack\IQuackable.cs" />
+    <Compile Include="Ducks\Quack\NoQuack.cs" />
+    <Compile Include="Ducks\Quack\SimpleQuack.cs" />
+    <Compile Include="Ducks\RubberDuck.cs" />
+    <Compile Include="Ducks\SimpleDuck.cs" />
+    <Compile Include="Ducks\UpgradableDuck.cs" />
+    <Compile Include="Ducks\WoodenDuck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
