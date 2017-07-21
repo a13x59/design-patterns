@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandApplication", "Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterApplication", "AdapterApplication\AdapterApplication.csproj", "{EBD7EAED-F0CF-4C36-A568-B5AD28610CCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeApplication", "FacadeApplication\FacadeApplication.csproj", "{FD7B7DC7-49E8-4927-9986-406B7F63F1B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{EBD7EAED-F0CF-4C36-A568-B5AD28610CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD7EAED-F0CF-4C36-A568-B5AD28610CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD7EAED-F0CF-4C36-A568-B5AD28610CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7B7DC7-49E8-4927-9986-406B7F63F1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7B7DC7-49E8-4927-9986-406B7F63F1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7B7DC7-49E8-4927-9986-406B7F63F1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7B7DC7-49E8-4927-9986-406B7F63F1B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,5 +108,6 @@ Global
 		{145AF3E5-75FC-4480-B388-22C08BF87B23} = {09D604CE-44A3-417C-A5E6-0249B03D1A1B}
 		{7238521B-29ED-431F-98B2-D233C8C6BCF7} = {62A9EA6E-836B-43CA-965E-59A01032EB6E}
 		{EBD7EAED-F0CF-4C36-A568-B5AD28610CCD} = {6973A407-734D-4A5B-AF81-2832E4E2A25B}
+		{FD7B7DC7-49E8-4927-9986-406B7F63F1B2} = {D2BCCCBB-EC09-437F-A89E-977E3BACE39C}
 	EndGlobalSection
 EndGlobal
