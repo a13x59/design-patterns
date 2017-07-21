@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryApplication", "Facto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodApplication", "FactoryMethodApplication\FactoryMethodApplication.csproj", "{145AF3E5-75FC-4480-B388-22C08BF87B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandApplication", "CommandApplication\CommandApplication.csproj", "{7238521B-29ED-431F-98B2-D233C8C6BCF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{145AF3E5-75FC-4480-B388-22C08BF87B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7238521B-29ED-431F-98B2-D233C8C6BCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7238521B-29ED-431F-98B2-D233C8C6BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7238521B-29ED-431F-98B2-D233C8C6BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7238521B-29ED-431F-98B2-D233C8C6BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,5 +94,6 @@ Global
 		{D4D36FE5-605B-4085-9ABD-2A65F392D1A2} = {A15D7BFB-45B1-429C-901D-44FE1A70ED67}
 		{ECBA927E-8275-4EC2-AEC6-329CFC78432A} = {09D604CE-44A3-417C-A5E6-0249B03D1A1B}
 		{145AF3E5-75FC-4480-B388-22C08BF87B23} = {09D604CE-44A3-417C-A5E6-0249B03D1A1B}
+		{7238521B-29ED-431F-98B2-D233C8C6BCF7} = {62A9EA6E-836B-43CA-965E-59A01032EB6E}
 	EndGlobalSection
 EndGlobal
